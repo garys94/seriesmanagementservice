@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/seriesmanagementapi/seriesmanagementapi.iml" filepath="$PROJECT_DIR$/seriesmanagementapi/seriesmanagementapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seriesmanagementcore/seriesmanagementcore.iml" filepath="$PROJECT_DIR$/seriesmanagementcore/seriesmanagementcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seriesmanagementintegrationtests/seriesmanagementintegrationtests.iml" filepath="$PROJECT_DIR$/seriesmanagementintegrationtests/seriesmanagementintegrationtests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seriesmanagementservice.iml" filepath="$PROJECT_DIR$/seriesmanagementservice.iml" />
+    </modules>
+  </component>
+</project>
