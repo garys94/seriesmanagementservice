@@ -57,6 +57,7 @@ public class SeriesController {
         }
     }
 
+    @RequestMapping(method = RequestMethod.PUT, value = "series")
     public ResponseEntity addSeries(@RequestBody Series series) {
         try {
             if (series != null) {
